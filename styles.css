@@ -208,6 +208,7 @@ footer {
   width: 200px;
   margin-left: 20px;
   cursor: pointer;
+  z-index: 1;
 }
 
 .footer-item {
