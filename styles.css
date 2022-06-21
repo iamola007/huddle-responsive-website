@@ -44,7 +44,7 @@ h6 {
 header {
   width: 100%;
   padding: 2rem 2rem;
-  background-image: url("/images 5/bg-hero-mobile.svg");
+  background-image: url("https://res.cloudinary.com/dny4fdht3/image/upload/v1655769671/bg-hero-mobile_mkpzdp.svg");
   background-color: hsl(193, 100%, 96%);
 }
 
