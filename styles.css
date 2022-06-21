@@ -293,6 +293,9 @@ footer small {
 }
 
 @media screen and (min-width: 1000px) {
+ header {
+    background-image: url("https://res.cloudinary.com/dny4fdht3/image/upload/v1655769671/bg-hero-desktop_yi9u5l.svg");
+  }
   .navbar {
     width: 90%;
     margin: auto;
